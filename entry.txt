@@ -1,0 +1,1 @@
+I asked my AI agent to write a unit test. It wrote a test that tests the test. Both passed. The code still doesn't work.
